@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/hhgchallenge/static/css/main.58fbcc64.chunk.css",
+    "main.js": "/hhgchallenge/static/js/main.14736010.chunk.js",
+    "main.js.map": "/hhgchallenge/static/js/main.14736010.chunk.js.map",
+    "runtime-main.js": "/hhgchallenge/static/js/runtime-main.2a0e4d38.js",
+    "runtime-main.js.map": "/hhgchallenge/static/js/runtime-main.2a0e4d38.js.map",
+    "static/css/2.7785af68.chunk.css": "/hhgchallenge/static/css/2.7785af68.chunk.css",
+    "static/js/2.6a22dcdb.chunk.js": "/hhgchallenge/static/js/2.6a22dcdb.chunk.js",
+    "static/js/2.6a22dcdb.chunk.js.map": "/hhgchallenge/static/js/2.6a22dcdb.chunk.js.map",
+    "static/js/3.975168c5.chunk.js": "/hhgchallenge/static/js/3.975168c5.chunk.js",
+    "static/js/3.975168c5.chunk.js.map": "/hhgchallenge/static/js/3.975168c5.chunk.js.map",
+    "index.html": "/hhgchallenge/index.html",
+    "static/css/2.7785af68.chunk.css.map": "/hhgchallenge/static/css/2.7785af68.chunk.css.map",
+    "static/css/main.58fbcc64.chunk.css.map": "/hhgchallenge/static/css/main.58fbcc64.chunk.css.map",
+    "static/js/2.6a22dcdb.chunk.js.LICENSE.txt": "/hhgchallenge/static/js/2.6a22dcdb.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2a0e4d38.js",
+    "static/css/2.7785af68.chunk.css",
+    "static/js/2.6a22dcdb.chunk.js",
+    "static/css/main.58fbcc64.chunk.css",
+    "static/js/main.14736010.chunk.js"
+  ]
+}
