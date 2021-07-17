@@ -1,0 +1,14 @@
+.required:after {
+    content: ' *';
+    color: red;
+    margin-left: 5px;
+  }
+
+  .rs-btn-primary {
+    color: #ffffff;
+    background-color: #0ab2a8!important;
+    &:hover,&:focus,&:active
+    {
+        background-color: #00756e!important
+    }
+}
